@@ -1,7 +1,7 @@
 # FirstSpringBootApp
-Spring boot application hands on
+Spring boot application hands on.
 
-Hello World spring boot application :-:
+Hello World spring boot application :-
 
 Url -http://localhost:8090/hello
 Reponse - Hello World!
